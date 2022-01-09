@@ -16,7 +16,7 @@
 
    -
 
-![Alt Text](/assets/cyber-dogo.jpg)
+![Alt Text](/assets/cyber-dogo.jpeg)
 
 4. Никога не използвайте името на кучето си за парола!
 
