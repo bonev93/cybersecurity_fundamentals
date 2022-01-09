@@ -1,1 +1,1 @@
-![Alt Text](/assets/cyber-dogo.git)
+![Alt Text](/assets/cyber-dogo.gif)
